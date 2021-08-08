@@ -1,0 +1,38 @@
+.footer-block {
+  background-color: #101145;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+}
+.footer-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.footer-logo {
+  color: white;
+  font-size: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.footer-app-name {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+  color: #ffffff;
+}
+.footer-quote {
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 15px;
+  color: #ffffff;
+}
+.footer-social-media-logos {
+  color: white;
+  font-size: 27px;
+  margin: 14px;
+}

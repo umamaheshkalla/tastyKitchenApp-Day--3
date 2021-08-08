@@ -1,0 +1,11 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.carousel-block {
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}

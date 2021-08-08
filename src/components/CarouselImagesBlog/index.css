@@ -1,0 +1,9 @@
+.carousel-container {
+  display: block;
+  width: 70vw;
+  padding: 30px;
+}
+.carousel-image {
+  display: block;
+  width: 100vw;
+}

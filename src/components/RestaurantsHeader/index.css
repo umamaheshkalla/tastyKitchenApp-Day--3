@@ -1,0 +1,49 @@
+.restaurants-container {
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+}
+.restaurants-heading {
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 25px;
+  color: #2e2e2e;
+}
+.sub-heading {
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 10px;
+  color: #8c8b8b;
+}
+.sort-by {
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #292829;
+  margin-left: 8px;
+  margin-right: px;
+}
+.sort-by-description {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sort-by-container {
+  display: flex;
+  flex-direction: row;
+}
+.sort-by-select {
+  border: 0px;
+  margin-left: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  width: 0px;
+  cursor: pointer;
+}
+.select-option {
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 10px;
+  color: black;
+  cursor: pointer;
+}

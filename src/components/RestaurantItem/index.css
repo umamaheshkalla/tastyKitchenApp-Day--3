@@ -1,0 +1,47 @@
+.restaurant-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 20vw;
+  margin: 20px;
+  padding: 10px;
+}
+.restaurant-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  list-style-type: none;
+}
+.rating-block {
+  display: flex;
+  margin-top: 10px;
+}
+.restaurant-image {
+  height: 90px;
+  width: 150px;
+  border-radius: 5px;
+}
+.restaurant-name {
+  font-family: 'roboto';
+  font-size: 10px;
+  font-weight: bold;
+}
+.restaurant-cuisine {
+  font-family: 'roboto';
+  font-size: 8px;
+}
+.rating-icon {
+  color: #f0bc43;
+}
+.restaurant-ratings {
+  font-family: 'roboto';
+  font-size: 10px;
+  font-weight: bold;
+}
+.restaurant-total-ratings {
+  font-family: 'roboto';
+  font-size: 10px;
+  font-weight: bold;
+  color: #a69f9a;
+}
